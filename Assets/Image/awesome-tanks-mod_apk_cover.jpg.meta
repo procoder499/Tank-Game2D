@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 4dd93e7a24ef6aa4f8ade0c862af0a0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6072791412990018155
+    second: awesome-tanks-mod_apk_cover_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_0
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 312
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649df5dc8ee8c947b32590b276269dd
+      internalID: 467709629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 390
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df0f103db70d24c82b338a6d14a040
+      internalID: -939607990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_2
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 450
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c811ce634d336144b96f54421c6d7941
+      internalID: 1594192982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_3
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 447
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741a322f6f5711d4a84d1cfe78568f07
+      internalID: 2128954400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_4
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 43
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebfd30b6978a014f9a22aa9713101f4
+      internalID: 349102925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_5
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 179
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a32fb6f5d2bd45b927d15250cbe8d
+      internalID: -1939168351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_6
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 179
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675df919b60801046b91a71cfb8a32ce
+      internalID: -482637500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 94
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff663f15d7ad22641aa343b06ec40e5d
+      internalID: 2058804557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 94
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8417e6e16ca93e4d8d1cfd814f7c4d6
+      internalID: -1129995746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: awesome-tanks-mod_apk_cover_9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 110
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32384346923535a4eb7f24b09ca78991
+      internalID: -44952639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92e11e9c26aa4424db3a07c5fe623be2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      awesome-tanks-mod_apk_cover_0: 467709629
+      awesome-tanks-mod_apk_cover_1: -939607990
+      awesome-tanks-mod_apk_cover_10: 1422511144
+      awesome-tanks-mod_apk_cover_11: -702728210
+      awesome-tanks-mod_apk_cover_12: -1239001127
+      awesome-tanks-mod_apk_cover_13: -1005915866
+      awesome-tanks-mod_apk_cover_14: -543326138
+      awesome-tanks-mod_apk_cover_15: -966835466
+      awesome-tanks-mod_apk_cover_16: -1197285797
+      awesome-tanks-mod_apk_cover_17: -1016667341
+      awesome-tanks-mod_apk_cover_18: -113856488
+      awesome-tanks-mod_apk_cover_19: 453950931
+      awesome-tanks-mod_apk_cover_2: 1594192982
+      awesome-tanks-mod_apk_cover_20: 101783454
+      awesome-tanks-mod_apk_cover_21: -1271126516
+      awesome-tanks-mod_apk_cover_22: -2132187413
+      awesome-tanks-mod_apk_cover_23: 1555795623
+      awesome-tanks-mod_apk_cover_24: -2115267804
+      awesome-tanks-mod_apk_cover_3: 2128954400
+      awesome-tanks-mod_apk_cover_4: 349102925
+      awesome-tanks-mod_apk_cover_5: -1939168351
+      awesome-tanks-mod_apk_cover_6: -482637500
+      awesome-tanks-mod_apk_cover_7: 2058804557
+      awesome-tanks-mod_apk_cover_8: -1129995746
+      awesome-tanks-mod_apk_cover_9: -44952639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
