@@ -10,10 +10,10 @@ public class Bullet : MonoBehaviour
     public int damage = 20;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player") || collision.CompareTag("Ground"))
+        if (collision.CompareTag("Ground"))
         {
             GameObject effect = Instantiate(hitEffect, transform.position, Quaternion.identity);
-            Destroy(effect, 5f);
+            Destroy(effect, 2f);
             Destroy(gameObject);
         }
         else if (collision.CompareTag("Enemy"))
@@ -24,7 +24,7 @@ public class Bullet : MonoBehaviour
             {
                 enemy.TakeDamage(damage);
             }
-            Destroy(effect, 5f);
+            Destroy(effect, 2f);
             Destroy(gameObject);
         }
         else if (collision.CompareTag("Item"))
@@ -35,7 +35,29 @@ public class Bullet : MonoBehaviour
             {
                 box.TakeDamage(damage);
             }
-            Destroy(effect, 5f);
+            Destroy(effect, 2f);
+            Destroy(gameObject);
+        }
+        else if (collision.CompareTag("Brick") )
+        {
+            Enemy enemy = collision.gameObject.GetComponent<Enemy>();
+            GameObject effect = Instantiate(hitEffect, transform.position, Quaternion.identity);
+            if (enemy != null)
+            {
+                enemy.TakeDamage(damage);
+            }
+            Destroy(effect, 2f);
+            Destroy(gameObject);
+        }
+        else if ( collision.CompareTag("Spawner"))
+        {
+            Spawner spawner = collision.gameObject.GetComponent<Spawner>();
+            GameObject effect = Instantiate(hitEffect, transform.position, Quaternion.identity);
+            if (spawner != null)
+            {
+                spawner.TakeDamage(damage);
+            }
+            Destroy(effect, 2f);
             Destroy(gameObject);
         }
     }

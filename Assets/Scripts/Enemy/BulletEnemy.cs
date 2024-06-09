@@ -17,7 +17,7 @@ public class BulletEnemy : MonoBehaviour
                 HpPlayer.TakeDamage(damage);
             }
             GameObject effect = Instantiate(hitEffect, transform.position, Quaternion.identity);
-            Destroy(effect, 5f);
+            Destroy(effect, 2f);
             Destroy(gameObject);
         }
     }

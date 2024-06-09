@@ -8,6 +8,8 @@ TagManager:
   - Enemy
   - Ground
   - Item
+  - Brick
+  - Spawner
   layers:
   - Default
   - TransparentFX
